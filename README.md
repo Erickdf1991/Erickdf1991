@@ -1,4 +1,4 @@
-👋 Hi! I'm Erick, a Latam Data Analyst at 3M, with over 10 years of experience in BI, SQL, and Supply Chain.
+👋 Hi! I'm Erick, a Latam Data Analyst at 3M and a Data Scientist, with over 10 years of experience in BI, SQL, and Supply Chain.
 
 🔹 Specialist in Power BI, DAX, and SQL (Snowflake, SQL Server)
 🔹 Experience with Python (Pandas, PySpark) for data analysis
@@ -14,3 +14,5 @@ About Me
 Married, father of Augusto 👶 and Joey 🐺.
 
 In my free time, I enjoy spending time with my family, playing video games, reading books, binge-watching movies and series, playing guitar, and following the NFL 🏈.
+
+
