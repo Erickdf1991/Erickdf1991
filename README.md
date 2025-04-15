@@ -10,7 +10,7 @@
 
 🚀 Always open to collaborations and new challenges!
 
-About Me
+About Me:
 Married, father of Augusto 👶 and Joey 🐺.
 
 In my free time, I enjoy spending time with my family, playing video games, reading books, binge-watching movies and series, playing guitar, and following the NFL 🏈.
